@@ -1,5 +1,7 @@
 # edge-to-edge-bug
 Project demonstrates insets compat issue. The issue happens only on Android 8 and 9.
+## Issue description
+When I use `ViewCompat.setOnApplyWindowInsetsListener` and `WindowInsetsControllerCompat` to implement immersive mode. It breaks other fragment.
 
 Issue: 
 
