@@ -16,10 +16,10 @@ Issue:
 2. Wait for the toast "Done" to appear
 3. Press the "Previous" button
 
-## Expected behavior
+### Expected behavior
 The First Fragment should has height and width equal to the parent size "match_parent".
 
-## Actual behavior
+### Actual behavior
 The First Fragment has height and width equal to zero.
 
 ## Video
