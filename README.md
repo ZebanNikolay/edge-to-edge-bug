@@ -3,12 +3,12 @@ Project demonstrates insets compat issue. The issue happens only on Android 8 an
 
 Issue: 
 
-##Devices:
-###Android 8:
+## Devices:
+### Android 8:
 - Samsung J7
 - Samsung A5
 - Sony Xperia XA1
-###Android 9:
+### Android 9:
 - Nokia 8
 
 ## WTR
@@ -22,4 +22,5 @@ The First Fragment should has height and width equal to the parent size "match_p
 ## Actual behavior
 The First Fragment has height and width equal to zero.
 
+## Video
 <img src="https://github.com/ZebanNikolay/edge-to-edge-bug/blob/master/img/edge-to-edge-bug-video.gif" width="360" height="640">
