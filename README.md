@@ -3,7 +3,7 @@ Project demonstrates insets compat issue. The issue happens only on Android 8 an
 ## Issue description
 When I use `ViewCompat.setOnApplyWindowInsetsListener` and `WindowInsetsControllerCompat` to implement immersive mode. It breaks other fragment.
 
-Issue: 
+[IssueTracker](https://issuetracker.google.com/u/1/issues/270049519)
 
 ## Devices:
 #### Android 8:
