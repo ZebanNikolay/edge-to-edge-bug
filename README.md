@@ -22,4 +22,4 @@ The First Fragment should has height and width equal to the parent size "match_p
 ## Actual behavior
 The First Fragment has height and width equal to zero.
 
-<img src="https://github.com/ZebanNikolay/edge-to-edge-bug/blob/master/img/edge-to-edge-bug-video.gif" width="720" height="1280">
+<img src="https://github.com/ZebanNikolay/edge-to-edge-bug/blob/master/img/edge-to-edge-bug-video.gif" width="360" height="640">
