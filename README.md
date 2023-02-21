@@ -4,11 +4,11 @@ Project demonstrates insets compat issue. The issue happens only on Android 8 an
 Issue: 
 
 ## Devices:
-### Android 8:
+#### Android 8:
 - Samsung J7
 - Samsung A5
 - Sony Xperia XA1
-### Android 9:
+#### Android 9:
 - Nokia 8
 
 ## WTR
